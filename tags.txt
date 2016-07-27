@@ -1,0 +1,6 @@
+Eu aprendi que tags em git, são marcações/versionamentos de meus projetos.
+
+0.1.0
+0. MAJOR VERSION
+0.1. MINOR VERSION
+0.1.0 PATCHES VERSION
